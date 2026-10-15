@@ -1,4 +1,3 @@
--Bomb.jpg
 ACERCAactive.png
 ACERCAinactive.png
 ActiveButton.png
@@ -8,7 +7,6 @@ backgroundAcerca.png
 backgroundAyuda.png
 backgroundMenu.png
 backgroundStats.png
-Block.png
 BOMBAGAARRU.mp3
 bombagaru.mp3
 bomberman-sprite-1.png
@@ -18,17 +16,12 @@ bomberman-sprite-4.png
 bomberman-sprite-player.png
 bomberman-sprite-sheet.png
 Bombs.png
-clog_sandals.png
 Explosion.png
-ExtraBomb_PowerUp.png
-ExtraFire_PowerUp.png
-ExtraHp_PowerUp.png
 Friend.png
 hs_err_pid5912.log
 InactiveButton.png
 JUGARactive.png
 JUGARinactive.png
-Lifebomber.png
 menu.ogg
 OK NYA.mp3
 OK.mp3
@@ -37,7 +30,6 @@ optionsButtonInactive.png
 playButtonInactive.png
 Playfield.png
 playtButtonActive.png
-speed_powerup.png
 STATSactive.png
 STATSinactive.png
 Yokaidisco.ogg
